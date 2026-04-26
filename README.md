@@ -2,7 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=200\&section=header\&text=Rajgiri%20Mandal\&fontSize=40\&fontColor=ffffff)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=Building+Focus+AI;Creating+Atlas+AI;Machine+Learning+Developer;Execution+Over+Ideas)
 
 ---
 
