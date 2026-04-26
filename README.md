@@ -53,14 +53,9 @@ Automation + AI System
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rajgirimandal\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgirimandal\&layout=compact\&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=rajgirimandal\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=rajgirimandal\&show_icons=true)
 
 ---
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/rajgirimandal/rajgirimandal/blob/output/github-contribution-grid-snake.svg)
