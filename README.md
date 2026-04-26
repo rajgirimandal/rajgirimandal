@@ -62,7 +62,7 @@ Automation + AI system
 ## 🔗 Connect
 
 * 📸 Instagram: https://www.instagram.com/_giriraj_/
-* 💻 GitHub: https://github.com/yourusername
+* 💻 GitHub: https://github.com/rajgirimandal
 
 ---
 
