@@ -48,9 +48,6 @@ Automation + AI System
 
 ---
 
-## 📊 GitHub 
-
-[![Activity Graph](https://vercel.app)](https://github.com/rajgirimandal)
 
 ---
 
