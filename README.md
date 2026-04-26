@@ -1,6 +1,8 @@
 # Hi, I'm Rajgiri Mandal 👋
 
-🚀 Building real-world AI systems
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=200\&section=header\&text=Rajgiri%20Mandal\&fontSize=40\&fontColor=ffffff)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=Building+Focus+AI;Creating+Atlas+AI;Machine+Learning+Developer;Execution+Over+Ideas)
 
 ---
 
@@ -17,56 +19,66 @@
 
 ### 🔴 Focus AI
 
-AI-powered exam monitoring system
+AI-based Exam Monitoring System
 
-**Features:**
+🔗 https://github.com/yourusername/focus-ai
 
-* 👁️ Face detection *(in progress)*
-* 📊 Activity tracking
-* ⚠️ Suspicious behavior detection *(in progress)*
-* 🧠 AI-based analysis *(in progress)*
+**Core Features:**
+
+* 👁️ Face Detection *(in progress)*
+* 📊 Activity Tracking
+* ⚠️ Suspicious Behavior Detection *(in progress)*
+* 🧠 AI Analysis *(in progress)*
 
 ---
 
 ### 🟣 Atlas AI
 
-Automation + AI system
+Automation + AI System
 
-**Features:**
+🔗 https://github.com/yourusername/atlas-ai
 
-* ⚙️ Workflow automation
-* 🧠 Decision logic system
-* 🔗 System integrations *(in progress)*
+**Core Features:**
+
+* ⚙️ Workflow Automation
+* 🧠 Decision Engine
+* 🔗 System Integration *(in progress)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Python
-* JavaScript
-* HTML, CSS
-* Node.js *(learning)*
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
 
-## 🔥 Streak
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=yourusername\&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=yourusername\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔗 Connect
 
 * 📸 Instagram: https://www.instagram.com/_giriraj_/
-* 💻 GitHub: https://github.com/rajgirimandal
+* 💻 GitHub: https://github.com/yourusername
 
 ---
 
 ## ⚡ Mindset
 
-> I build systems, not just projects
-> Execution > Ideas
+* I build systems, not tutorials
+* Execution > Ideas
+* Learning by shipping real projects
