@@ -48,15 +48,9 @@ Automation + AI System
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rajgirimandal\&show_icons=true)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/rajgirimandal/rajgirimandal/blob/output/github-contribution-grid-snake.svg)
+[![Activity Graph](https://vercel.app)](https://github.com/rajgirimandal)
 
 ---
 
