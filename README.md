@@ -20,7 +20,7 @@
 
 AI-based Exam Monitoring System
 
-🔗 https://github.com/yourusername/focus-ai
+
 
 **Core Features:**
 
@@ -34,8 +34,6 @@ AI-based Exam Monitoring System
 ### 🟣 Atlas AI
 
 Automation + AI System
-
-🔗 https://github.com/yourusername/atlas-ai
 
 **Core Features:**
 
@@ -72,7 +70,7 @@ Automation + AI System
 ## 🔗 Connect
 
 * 📸 Instagram: https://www.instagram.com/_giriraj_/
-* 💻 GitHub: https://github.com/yourusername
+* 💻 GitHub: https://github.com/rajgirimandal
 
 ---
 
