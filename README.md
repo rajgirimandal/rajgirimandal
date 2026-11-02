@@ -1,75 +1,72 @@
 
-<!-- ====================================================== -->
-<!-- RAJGIRI MANDAL | PROFESSIONAL DEVELOPER PORTFOLIO       -->
-<!-- ====================================================== -->
-
 <p align="center">
-  <img
-    src="Rajgiri%20Mandal_%20Futuristic%20AI%20Robotics%20Banner.png"
-    width="100%"
-    alt="Rajgiri Mandal - Developer, AI and Robotics Innovator"
-  />
+  <img src="Rajgiri%20Mandal_%20Futuristic%20AI%20Robotics%20Banner.png" width="100%" alt="Rajgiri Mandal AI Robotics Banner"/>
 </p>
 
-<h1 align="center">Rajgiri Mandal</h1>
-
-<h3 align="center">
-  Student Developer • AI Enthusiast • Robotics & Technology Innovator
-</h3>
+<h1 align="center">RAJGIRI MANDAL</h1>
 
 <p align="center">
-  <b>Engineering ideas into practical technology solutions.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Robotics;Software+Developer+%7C+Technology+Innovator;Building+Technology+That+Solves+Real+Problems" alt="Animated typing headline"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Explorer-00BFFF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robotics-Innovation-7057FF?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software-Development-0078D4?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/rajgirimandal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/rajgiri-mandal-901580448">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:girirajmandal1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 01. Professional Overview
+<h2 align="center">◈ ABOUT ME ◈</h2>
 
-I am a student developer and technology enthusiast focused on Artificial Intelligence, Software Engineering, Robotics and Internet of Things (IoT).
+<p align="center">
+I am a student developer and technology innovator passionate about Artificial Intelligence, Robotics, Software Engineering and IoT.
+</p>
 
-I am interested in understanding real-world problems and developing practical solutions through programming, intelligent systems, hardware integration and experimentation.
+<p align="center">
+I enjoy transforming ideas into practical solutions through programming, experimentation, intelligent systems and hardware integration.
+</p>
 
-My work combines software development with applied technology, particularly in areas such as AI-powered monitoring, computer vision, smart agriculture and automation.
-
-I believe meaningful innovation comes from understanding a problem, engineering a solution and continuously improving it through experimentation.
-
-### Core Focus
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Intelligent Monitoring
-- Software Engineering & Web Development
-- Robotics & Embedded Systems
-- Internet of Things & Smart Agriculture
-- Automation & Hardware Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_&_Machine_Learning-00BFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-7057FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Robotics-00C896?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IoT-FF9800?style=flat-square"/>
+</p>
 
 ---
 
-## 02. Featured Projects
+<h2 align="center">◈ FEATURED PROJECTS ◈</h2>
 
-### Focus AI
+<h3>01. Focus AI</h3>
+
+<p>
+  <img align="right" width="120" src="https://img.shields.io/badge/AI-Computer_Vision-00BFFF?style=for-the-badge"/>
+</p>
+
 **AI-Powered Classroom Monitoring & Exam Analysis**
 
-An AI-based classroom monitoring project designed to explore intelligent student activity monitoring and examination supervision using computer vision.
+An intelligent classroom monitoring project exploring computer vision, student activity analysis and examination monitoring.
 
-**Key Capabilities**
+**Core Features**
+
 - Computer vision-based activity analysis
 - Student posture and movement monitoring
 - Head movement and gesture analysis
 - Object detection experiments
 - Real-time monitoring and visualization
-- Classroom engagement analysis
 
 **Technology Stack**
 
@@ -77,145 +74,117 @@ An AI-based classroom monitoring project designed to explore intelligent student
 
 <p>
   <a href="https://github.com/rajgirimandal/FOUCS-AI">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0A84FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/EXPLORE_FOCUS_AI-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### FarmKing
-**Smart Agriculture & IoT-Based Monitoring**
+<h3>02. FarmKing</h3>
 
-A smart agriculture project focused on exploring technology-driven solutions for practical agricultural challenges.
+**Smart Agriculture & IoT Solution**
 
-The project integrates microcontrollers, sensors and automation to support agricultural monitoring and smart irrigation concepts.
+A technology-driven agriculture project exploring sensor-based monitoring, microcontrollers and automation.
 
-**Key Areas**
+**Core Features**
+
 - Soil moisture monitoring
 - Sensor-based environmental monitoring
-- Smart irrigation automation
+- Smart irrigation concepts
 - Microcontroller integration
-- Hardware-based monitoring systems
+- Hardware automation
 
-**Hardware & Technologies**
+**Hardware Stack**
 
-`Arduino Uno` `Arduino R4 WiFi` `ESP8266` `Ultrasonic Sensors` `Soil Moisture Sensors` `Relays`
-
-*Project repository and technical demonstration will be linked when publicly available.*
+`Arduino Uno` `Arduino R4 WiFi` `ESP8266` `Ultrasonic Sensors` `Soil Moisture Sensors`
 
 ---
 
-## 03. Technical Expertise
+<h2 align="center">◈ TECHNICAL SKILLS ◈</h2>
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
-</p>
-
-### Web Development & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,tailwind,sqlite" />
-</p>
-
-### AI, Machine Learning & Computer Vision
-
-- TensorFlow.js
-- MediaPipe
-- MoveNet
-- COCO-SSD
-- Computer Vision
-- AI Model Integration
-- Real-Time Detection Systems
-
-### Robotics & Embedded Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-- Arduino Uno and Arduino R4 WiFi
-- ESP8266 / NodeMCU
-- Sensor Integration
-- Embedded System Programming
-- IoT-Based Automation
-- Hardware-Software Integration
-
-### Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-## 04. Innovation & Recognition
-
-My interest in technology extends beyond software development into student innovation, exhibitions and technical competitions.
-
-**Selected Experiences**
-
-- **Rashtriya Bal Vaigyanik Pradarshani (RSBVP) 2025–26:** Participated in the national-level student innovation exhibition in Pune.
-- **Google Exchange Hackathon:** Participated with Team Atlas; team rank reported as 96.
-- **Student Innovator Program (SIP):** Selected for the innovation program.
-- **Technology Exhibitions:** Presented and explored practical technology projects involving AI, robotics and hardware systems.
-
----
-
-## 05. Engineering Interests
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_&_ML-0A84FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-7B61FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Robotics-00BFA6?style=flat-square" />
-  <img src="https://img.shields.io/badge/IoT-FF9800?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-2196F3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software_Engineering-181717?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark"/>
 </p>
 
-I am particularly interested in the intersection of intelligent software, physical systems and real-world engineering applications.
-
----
-
-## 06. GitHub Activity
+<h3 align="center">Development & Backend</h3>
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=rajgirimandal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgirimandal&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,tailwind,sqlite&theme=dark"/>
+</p>
+
+<h3 align="center">AI & Computer Vision</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-7057FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-00BFFF?style=for-the-badge"/>
+</p>
+
+<h3 align="center">Robotics & Embedded Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
+  <img src="https://img.shields.io/badge/ESP8266-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-00C896?style=for-the-badge"/>
+</p>
+
+<h3 align="center">Developer Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 </p>
 
 ---
 
-## 07. Connect With Me
+<h2 align="center">◈ INNOVATION & RECOGNITION ◈</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RSBVP-2025--26-0078FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Exchange_Hackathon-Participant-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SIP-Selected-00C896?style=for-the-badge"/>
+</p>
+
+- Participated in Rashtriya Bal Vaigyanik Pradarshani 2025–26 in Pune.
+- Participated in Google Exchange Hackathon with Team Atlas.
+- Selected for the Student Innovator Program (SIP).
+- Participated in student innovation exhibitions and technology competitions.
+
+---
+
+<h2 align="center">◈ GITHUB ANALYTICS ◈</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajgirimandal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgirimandal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgirimandal&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajgirimandal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity"/>
+</p>
+
+---
+
+<h2 align="center">◈ LET'S CONNECT ◈</h2>
 
 <p align="center">
   <a href="https://github.com/rajgirimandal">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/rajgiri-mandal-901580448">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
-
-<p align="center">
   <a href="mailto:girirajmandal1234@gmail.com">
-    girirajmandal1234@gmail.com
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Think Beyond Limits. Engineer Solutions. Create Impact.</b>
-</p>
-
-<p align="center">
-  <sub>© Rajgiri Mandal | Personal Developer Portfolio</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=550&lines=Think+Critically.;Build+Practically.;Innovate+Continuously." alt="Animated closing message"/>
 </p>
